@@ -2,6 +2,10 @@
 
 A Power BI project that explores workforce demographics, employee attrition, compensation, job satisfaction, work-life balance, and attrition risk to support HR decision-making.
 
+## Dashboard Preview
+
+![HR Workforce Insights & Employee Attrition Dashboard](dashboard.png)
+
 ## Project Objective
 
 Build an interactive HR analytics dashboard to monitor workforce patterns, analyze employee attrition, identify groups that may need retention attention, and support evidence-informed workforce planning.
@@ -60,6 +64,7 @@ The project includes a Logistic Regression component using selected HR features 
 - `HR Workforce Insights & Employee Attrition Predictor Dashboard.pbix` — Power BI dashboard
 - `employee_attrition_data.csv` — Sample employee dataset
 - `HR_Workforce_Insights_Employee_Attrition_Project_Report.docx` — Detailed project report
+- `dashboard.png` — Dashboard preview image
 
 ## Business Value
 
